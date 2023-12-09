@@ -1,73 +1,45 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
 
-class GreeterProgram {
-
+class RandomDiceRoller
+{
     static void Main()
     {
-        Console.WriteLine("Welcome to the Greeter Program!");
+        Random dice = new Random();
 
+        int roll1 = dice.Next(1, 7);
+        int roll2 = dice.Next(1, 7);
+        int roll3 = dice.Next(1, 7);
 
-        //Promp the user to enter their name
-        Console.Write("Please enter your name: ");
-        string userName = Console.ReadLine();
+        int total = roll1 + roll2 + roll3;
+        Console.WriteLine(total);
 
-
-        //Greet the user
-        Console.WriteLine($"Hello , {userName}!Welcome to the Greeter and Calculator program.");
-
-        //ask the user if they want to use the calculator
-        Console.WriteLine("\nCalculator:You can perform basic arthimatic operations. ");
-        Console.Write("Do you want to use the calculator? (yes/no): ");
-        string answer = Console.ReadLine().ToLower();
-
-        if(answer == "yes") 
+        if (total >= 14)
         {
-            //calculator functionality
-            Console.WriteLine("\nEnter the two numbers to perform calculations.");
-            Console.Write("Enter the first number: ");
-            double num1 = Convert.ToDouble(Console.ReadLine()); //Reads the first number
-            Console.Write("Enter the second numer: ");
-            double num2 = Convert.ToDouble(Console.ReadLine()); //Reads the second number
-
-
-            Console.WriteLine("\nAvailable Operations: ");
-            Console.WriteLine("1. Addition (+)");
-            Console.WriteLine("2. Subtraction (-)");
-            Console.WriteLine("3. Multiplication (*)");
-            Console.WriteLine("4. division (/)");
-            Console.WriteLine(" Please enter the number corresponding to the operation you want to perform: ");
-
-
-            int choice = Convert.ToInt32(Console.ReadLine());
-
-
-            //perform the selected operations and display the result
-
-            switch(choice)
-            {
-                case 1:
-                    Console.WriteLine($"Result: {num2}+{num1} = {num1+num2}");
-                    break;
-                case 2:
-                   Console.WriteLine($"Result: {num2}-{num1} = {num2 - num1}");
-                   break;
-                case 3:
-                   Console.WriteLine($"Result: {num2} * {num1} = {num2*num1}");
-                   break;
-
-                case 4:
-                   Console.WriteLine($"Result: {num2}/{num1}= {num2/num1}");
-                   break;
-                default:
-                  Console.WriteLine("Invalid input, try again.");
-                  break;
-            }
-
-
+            Console.WriteLine("You win!");
+        }
+        else if (total < 14)
+        {
+            Console.WriteLine("Sorry, you lose.");
         }
 
-        else {
-            Console.WriteLine("No, May be other time.");
+        else if((roll1 == roll2) || (roll2 == roll3) || (roll1 == roll3))
+        {
+           Console.WriteLine("You rolled doubles! +2 bonus to total!");
+           total += 2;
         }
-    }
+
+
+        string message = "The quick brown fox jumps over the lazy dog.";
+        bool result = message.Contains("dog");
+        Console.WriteLine(result);
+
+     if (message.Contains("fox"))
+     {
+       Console.WriteLine("What does the fox say?");
+      }
+      }
+
+
+
 }
+
