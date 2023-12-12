@@ -1,0 +1,15 @@
+/home/biruk/Desktop/C#/bin/Debug/net6.0/C#
+/home/biruk/Desktop/C#/bin/Debug/net6.0/C#.deps.json
+/home/biruk/Desktop/C#/bin/Debug/net6.0/C#.runtimeconfig.json
+/home/biruk/Desktop/C#/bin/Debug/net6.0/C#.dll
+/home/biruk/Desktop/C#/bin/Debug/net6.0/C#.pdb
+/home/biruk/Desktop/C#/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+/home/biruk/Desktop/C#/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/biruk/Desktop/C#/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+/home/biruk/Desktop/C#/obj/Debug/net6.0/C#.AssemblyInfo.cs
+/home/biruk/Desktop/C#/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
+/home/biruk/Desktop/C#/obj/Debug/net6.0/C#.dll
+/home/biruk/Desktop/C#/obj/Debug/net6.0/refint/C#.dll
+/home/biruk/Desktop/C#/obj/Debug/net6.0/C#.pdb
+/home/biruk/Desktop/C#/obj/Debug/net6.0/C#.genruntimeconfig.cache
+/home/biruk/Desktop/C#/obj/Debug/net6.0/ref/C#.dll
