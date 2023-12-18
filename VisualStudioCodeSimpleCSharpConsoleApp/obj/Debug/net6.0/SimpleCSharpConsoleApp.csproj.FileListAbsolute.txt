@@ -1,0 +1,15 @@
+/home/biruk/Desktop/C#/OOP/Overloading/VisualStudioCodeSimpleCSharpConsoleApp/obj/Debug/net6.0/SimpleCSharpConsoleApp.csproj.AssemblyReference.cache
+/home/biruk/Desktop/C#/OOP/Overloading/VisualStudioCodeSimpleCSharpConsoleApp/obj/Debug/net6.0/SimpleCSharpConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/biruk/Desktop/C#/OOP/Overloading/VisualStudioCodeSimpleCSharpConsoleApp/obj/Debug/net6.0/SimpleCSharpConsoleApp.AssemblyInfoInputs.cache
+/home/biruk/Desktop/C#/OOP/Overloading/VisualStudioCodeSimpleCSharpConsoleApp/obj/Debug/net6.0/SimpleCSharpConsoleApp.AssemblyInfo.cs
+/home/biruk/Desktop/C#/OOP/Overloading/VisualStudioCodeSimpleCSharpConsoleApp/obj/Debug/net6.0/SimpleCSharpConsoleApp.csproj.CoreCompileInputs.cache
+/home/biruk/Desktop/C#/OOP/Overloading/VisualStudioCodeSimpleCSharpConsoleApp/bin/Debug/net6.0/SimpleCSharpConsoleApp
+/home/biruk/Desktop/C#/OOP/Overloading/VisualStudioCodeSimpleCSharpConsoleApp/bin/Debug/net6.0/SimpleCSharpConsoleApp.deps.json
+/home/biruk/Desktop/C#/OOP/Overloading/VisualStudioCodeSimpleCSharpConsoleApp/bin/Debug/net6.0/SimpleCSharpConsoleApp.runtimeconfig.json
+/home/biruk/Desktop/C#/OOP/Overloading/VisualStudioCodeSimpleCSharpConsoleApp/bin/Debug/net6.0/SimpleCSharpConsoleApp.dll
+/home/biruk/Desktop/C#/OOP/Overloading/VisualStudioCodeSimpleCSharpConsoleApp/bin/Debug/net6.0/SimpleCSharpConsoleApp.pdb
+/home/biruk/Desktop/C#/OOP/Overloading/VisualStudioCodeSimpleCSharpConsoleApp/obj/Debug/net6.0/SimpleCSharpConsoleApp.dll
+/home/biruk/Desktop/C#/OOP/Overloading/VisualStudioCodeSimpleCSharpConsoleApp/obj/Debug/net6.0/refint/SimpleCSharpConsoleApp.dll
+/home/biruk/Desktop/C#/OOP/Overloading/VisualStudioCodeSimpleCSharpConsoleApp/obj/Debug/net6.0/SimpleCSharpConsoleApp.pdb
+/home/biruk/Desktop/C#/OOP/Overloading/VisualStudioCodeSimpleCSharpConsoleApp/obj/Debug/net6.0/SimpleCSharpConsoleApp.genruntimeconfig.cache
+/home/biruk/Desktop/C#/OOP/Overloading/VisualStudioCodeSimpleCSharpConsoleApp/obj/Debug/net6.0/ref/SimpleCSharpConsoleApp.dll
