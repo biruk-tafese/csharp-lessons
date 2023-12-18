@@ -1,0 +1,15 @@
+/home/biruk/Desktop/C#/OOP/Overloading/StaticDataAndMembers/bin/Debug/net6.0/StaticsDataFiles
+/home/biruk/Desktop/C#/OOP/Overloading/StaticDataAndMembers/bin/Debug/net6.0/StaticsDataFiles.deps.json
+/home/biruk/Desktop/C#/OOP/Overloading/StaticDataAndMembers/bin/Debug/net6.0/StaticsDataFiles.runtimeconfig.json
+/home/biruk/Desktop/C#/OOP/Overloading/StaticDataAndMembers/bin/Debug/net6.0/StaticsDataFiles.dll
+/home/biruk/Desktop/C#/OOP/Overloading/StaticDataAndMembers/bin/Debug/net6.0/StaticsDataFiles.pdb
+/home/biruk/Desktop/C#/OOP/Overloading/StaticDataAndMembers/obj/Debug/net6.0/StaticsDataFiles.csproj.AssemblyReference.cache
+/home/biruk/Desktop/C#/OOP/Overloading/StaticDataAndMembers/obj/Debug/net6.0/StaticsDataFiles.GeneratedMSBuildEditorConfig.editorconfig
+/home/biruk/Desktop/C#/OOP/Overloading/StaticDataAndMembers/obj/Debug/net6.0/StaticsDataFiles.AssemblyInfoInputs.cache
+/home/biruk/Desktop/C#/OOP/Overloading/StaticDataAndMembers/obj/Debug/net6.0/StaticsDataFiles.AssemblyInfo.cs
+/home/biruk/Desktop/C#/OOP/Overloading/StaticDataAndMembers/obj/Debug/net6.0/StaticsDataFiles.csproj.CoreCompileInputs.cache
+/home/biruk/Desktop/C#/OOP/Overloading/StaticDataAndMembers/obj/Debug/net6.0/StaticsDataFiles.dll
+/home/biruk/Desktop/C#/OOP/Overloading/StaticDataAndMembers/obj/Debug/net6.0/refint/StaticsDataFiles.dll
+/home/biruk/Desktop/C#/OOP/Overloading/StaticDataAndMembers/obj/Debug/net6.0/StaticsDataFiles.pdb
+/home/biruk/Desktop/C#/OOP/Overloading/StaticDataAndMembers/obj/Debug/net6.0/StaticsDataFiles.genruntimeconfig.cache
+/home/biruk/Desktop/C#/OOP/Overloading/StaticDataAndMembers/obj/Debug/net6.0/ref/StaticsDataFiles.dll
