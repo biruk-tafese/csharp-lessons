@@ -1,0 +1,15 @@
+/home/biruk/Desktop/C#/OOP/CsharpApp/myQuizeApp/obj/Debug/net8.0/myQuizeApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/biruk/Desktop/C#/OOP/CsharpApp/myQuizeApp/obj/Debug/net8.0/myQuizeApp.AssemblyInfoInputs.cache
+/home/biruk/Desktop/C#/OOP/CsharpApp/myQuizeApp/obj/Debug/net8.0/myQuizeApp.AssemblyInfo.cs
+/home/biruk/Desktop/C#/OOP/CsharpApp/myQuizeApp/obj/Debug/net8.0/myQuizeApp.csproj.CoreCompileInputs.cache
+/home/biruk/Desktop/C#/OOP/CsharpApp/myQuizeApp/obj/Debug/net8.0/myQuizeApp.sourcelink.json
+/home/biruk/Desktop/C#/OOP/CsharpApp/myQuizeApp/bin/Debug/net8.0/myQuizeApp
+/home/biruk/Desktop/C#/OOP/CsharpApp/myQuizeApp/bin/Debug/net8.0/myQuizeApp.deps.json
+/home/biruk/Desktop/C#/OOP/CsharpApp/myQuizeApp/bin/Debug/net8.0/myQuizeApp.runtimeconfig.json
+/home/biruk/Desktop/C#/OOP/CsharpApp/myQuizeApp/bin/Debug/net8.0/myQuizeApp.dll
+/home/biruk/Desktop/C#/OOP/CsharpApp/myQuizeApp/bin/Debug/net8.0/myQuizeApp.pdb
+/home/biruk/Desktop/C#/OOP/CsharpApp/myQuizeApp/obj/Debug/net8.0/myQuizeApp.dll
+/home/biruk/Desktop/C#/OOP/CsharpApp/myQuizeApp/obj/Debug/net8.0/refint/myQuizeApp.dll
+/home/biruk/Desktop/C#/OOP/CsharpApp/myQuizeApp/obj/Debug/net8.0/myQuizeApp.pdb
+/home/biruk/Desktop/C#/OOP/CsharpApp/myQuizeApp/obj/Debug/net8.0/myQuizeApp.genruntimeconfig.cache
+/home/biruk/Desktop/C#/OOP/CsharpApp/myQuizeApp/obj/Debug/net8.0/ref/myQuizeApp.dll
