@@ -11,7 +11,43 @@ class Program
         staff1.HoursWorked = 160;
         pay = staff1.CalculatePay(1000, 400);
         Console.WriteLine("Pay = {0}", pay);
+
+    int[] myArr = {1,4,5,6,3,2,5,2};
+    AdvancedConcepts advan = new AdvancedConcepts();
+      
+       advan.PrintFirstElement(myArr);
+
+       List<int> myArr2 = new List<int>{122,3,4,6,7,8};
+       advan.PrintFirstElementUsingList(myArr2);
+
+    //     int[] myArr3 = advan.ReturnUserInput();
+   
+    //   List<int> myList2 = advan.ReturnUserInput2();
+    
+     advan.PrintNames("Abebe");
+     advan.PrintNames("Eyou","abe","kebe");
+
+     ChildOOPdemo mychild = new ChildOOPdemo("Special Rate", "James",
+1, 2010);
+     
+     // Polymorphism
+     OOPdemo[] parents = new OOPdemo[3];
+     
+     parents[0] = new ChildOOPdemo("Special Rate", "James", 1, 2010);
+     parents[1] = new ChildOOPdemo("Normal Rate", "Andy", 2, 2011);
+     parents[2] = new ChildOOPdemo("Normal Rate", "Bill", 3, 2011);
+  
+
+       foreach(ChildOOPdemo parent in parents )
+       {
+            parent.CalculateAnnualFee();
+            Console.WriteLine(parent.ToString());
+       }
     }
+
+
+   
+
 }
 
 
